@@ -1,3 +1,6 @@
+![GitHub Octocat](https://github.com/images/octocat.png)
+
+
 # About Me
 
 Hello, I'm Stephanie. I have a background in both Quality Assurance (QA) and Front-End Development. I'm passionate about working with various technologies, methodologies, and tools to deliver high-quality software solutions.
