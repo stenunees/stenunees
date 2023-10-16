@@ -1,4 +1,4 @@
-![Imagem de gatinho programando](https://labs.openai.com/s/jWtFgktb5sjBEn6YjlzUjnGk)
+![Imagem de gatinho programando](https://th.bing.com/th/id/R.01a8e16f48964c664314e7bffcee1110?rik=XtJQg0W4vDQ6Sw&riu=http%3a%2f%2fblog.alexellis.io%2fcontent%2fimages%2f2017%2f02%2fuse-cases.jpg&ehk=npdh5UoMxqqngIKV%2bvIWHjOHT00vF70J5rlUjyvcdDU%3d&risl=&pid=ImgRaw&r=0)
 
 
 # About Me
