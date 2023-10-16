@@ -1,4 +1,4 @@
-![Imagem de gatinho programando]((https://labs.openai.com/s/jWtFgktb5sjBEn6YjlzUjnGk))
+![Imagem de gatinho programando]((https://labs.openai.com/s/jWtFgktb5sjBEn6YjlzUjnGk)
 
 
 # About Me
