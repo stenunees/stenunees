@@ -1,4 +1,4 @@
-![GitHub Octocat](https://github.com/images/octocat.png)
+![Imagem de gatinho programando]((https://labs.openai.com/s/jWtFgktb5sjBEn6YjlzUjnGk))
 
 
 # About Me
