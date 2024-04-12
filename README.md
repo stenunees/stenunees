@@ -1,4 +1,5 @@
-![Imagem de gatinho programando](https://th.bing.com/th/id/R.01a8e16f48964c664314e7bffcee1110?rik=XtJQg0W4vDQ6Sw&riu=http%3a%2f%2fblog.alexellis.io%2fcontent%2fimages%2f2017%2f02%2fuse-cases.jpg&ehk=npdh5UoMxqqngIKV%2bvIWHjOHT00vF70J5rlUjyvcdDU%3d&risl=&pid=ImgRaw&r=0)
+![meu avatar](![image](https://github.com/stenunees/stenunees/assets/100435225/db3888d0-2610-4b17-9654-5d546ac792ca)
+
 
 
 # About Me
