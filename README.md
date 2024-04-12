@@ -1,4 +1,4 @@
-![meu avatar](![image](https://github.com/stenunees/stenunees/assets/100435225/db3888d0-2610-4b17-9654-5d546ac792ca)
+![meu avatar](!https://github.com/stenunees/stenunees/assets/100435225/db3888d0-2610-4b17-9654-5d546ac792ca)
 
 
 
