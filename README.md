@@ -1,7 +1,7 @@
 # 👩‍💻 About Me
 
 Hi, I'm **Stephanie Nunes**!
-QA Automation Engineer Pleno with 3+ years of experience ensuring **quality, security, and stability** in web and mobile applications.
+QA Automation Engineer with 3+ years of experience ensuring **quality, security, and stability** in web and mobile applications.
 I also have background in **Front-End Development** and enjoy building solutions that combine **technology + user experience**.
 
 ---
