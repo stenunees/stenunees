@@ -25,8 +25,7 @@ I also have background in **Front-End Development** and enjoy building solutions
 
 * Front-End: React.js, React Native, HTML5, CSS3, JavaScript, Bootstrap
 * Back-End: Node.js, Flask, Python
-* Databases: MySQL, MongoDB
-* SAP (ABAP, CDS Views, Fiori)
+* Databases: DBeaver
 
 **Collaboration & UX/UI**
 
